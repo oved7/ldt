@@ -1,0 +1,67 @@
+{
+    "name": "ldt.jwpub", 
+    "hash": "", 
+    "timestamp": "2023-11-02T23:41:34Z", 
+    "version": 1, 
+    "expandedSize": null, 
+    "contentFormat": "z-a", 
+    "htmlValidated": false, 
+    "mepsPlatformVersion": null, 
+    "mepsBuildNumber": null, 
+    "publication": {
+        "fileName": "ldt.db", 
+        "type": 1, 
+        "title": "", 
+        "shortTitle": "", 
+        "displayTitle": "", 
+        "referenceTitle": "", 
+        "undatedReferenceTitle": "", 
+        "titleRich": "", 
+        "displayTitleRich": "", 
+        "referenceTitleRich": "", 
+        "undatedReferenceTitleRich": "", 
+        "symbol": "ldt", 
+        "uniqueEnglishSymbol": "ldt", 
+        "uniqueSymbol": "ldt", 
+        "undatedSymbol": "ldt", 
+        "englishSymbol": "ldt", 
+        "language": null, 
+        "hash": "", 
+        "timestamp": "2023-11-02T23:41:34Z", 
+        "minPlatformVersion": 1, 
+        "schemaVersion": 8, 
+        "year": 2023, 
+        "issueId": 0, 
+        "issueNumber": 0, 
+        "variation": "", 
+        "publicationType": "", 
+        "rootSymbol": "ldt", 
+        "rootYear": 2023, 
+        "rootLanguage": 0, 
+        "images": [
+            {
+                "signature": "", 
+                "fileName": "", 
+                "type": "t", 
+                "attribute": "r", 
+                "width": null, 
+                "height": null
+            }
+        ], 
+        "categories": [
+            ""
+        ], 
+        "attributes": [], 
+        "issueAttributes": [], 
+        "issueProperties": {
+            "title": "", 
+            "undatedTitle": "", 
+            "coverTitle": "", 
+            "titleRich": "", 
+            "undatedTitleRich": "", 
+            "coverTitleRich": "", 
+            "symbol": "ldt", 
+            "undatedSymbol": "ldt"
+        }
+    }
+}
